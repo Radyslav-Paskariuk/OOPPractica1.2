@@ -1,0 +1,2 @@
+C:/Users/Админ/CLionProjects/practica1.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Админ/CLionProjects/practica1.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
